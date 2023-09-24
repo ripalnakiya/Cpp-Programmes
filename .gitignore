@@ -1,0 +1,15 @@
+*.exe
+
+.vscode/
+
+AbdulBari/
+
+Banking System/
+
+CodeHelp/
+
+Test.c
+
+Test.cpp
+
+VikasPatrak.cpp
