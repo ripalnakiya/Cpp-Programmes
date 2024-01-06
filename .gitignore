@@ -1,10 +1,14 @@
 *.exe
 
+tempCodeRunnerFile.cpp
+
 .vscode/
 
 AbdulBari/
 
 CodeHelp/
+
+CLionProject/
 
 Test.c
 
